@@ -33,3 +33,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	automatic merging is great but sometimes it might not understand the reaplcements or
+	modifications in that case git asks for manual merges and that great way in betn
